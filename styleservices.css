@@ -1,0 +1,76 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.containerservices{
+    
+  margin-top: 1px;
+  /* background: linear-gradient(rgb(238, 157, 157),blue); */
+}
+
+
+
+
+.containerservices p{
+  margin: 12px auto;
+
+  font-size: 20px;
+}
+
+.tableform table{
+    /* padding: 12px; */
+    margin-top: 12px;
+    margin-right: 32px;
+}
+
+.tableform{
+    
+    /* margin: 12px auto; */
+    margin-left: 70px;
+    border-collapse: collapse;
+    margin-top: 12px;
+  
+}
+
+
+ th,td{
+
+    /* margin-top: 12px; */
+    margin-left: 5px;
+    border: 2px solid black;
+    border-collapse: collapse;
+    border-style: double;
+
+    width: 229px;
+    height: 27px;
+    padding: 1px  52px;
+
+}
+
+.services{
+    background: linear-gradient(blue,yellow);
+    margin-top: 1px;
+
+
+    padding: 17px;
+}
+
+.services h2{
+  font-size: 40px;
+  color: white;
+}
+
+.services ol {
+    /* background-color: red; */
+    padding: 17px;
+    color: #0c0d0e;
+    font-size: 20px;
+
+}
+
+.para{
+    font-size: 20px;
+    color: rgb(204, 224, 197);
+    margin-top: 12px;
+}
+

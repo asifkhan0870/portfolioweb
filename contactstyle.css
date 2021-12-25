@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.containercontact{
+    background-color: #f7c4c4;
+
+}
+.contactform{
+  
+    margin: 74px 192px;
+    /* background-color: red; */
+
+}
+
+.contactform h1{
+    margin-bottom: 12px;
+    margin-left:126px;
+  
+
+}
+
+.form-control{
+    width: 600px; 
+    height: 22px;
+    margin-top: 12px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: #f7ecec;
+    
+}
+
+.headingcontact {
+    justify-content: center;
+    align-items: center;
+    margin: 12px auto ;
+    background-color: blue;
+}
